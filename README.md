@@ -1,7 +1,5 @@
 
 # COE891 - Software Testing and Quality Assurance  
-Toronto Metropolitan University  
----
 
 ## 📘 Course Overview
 
