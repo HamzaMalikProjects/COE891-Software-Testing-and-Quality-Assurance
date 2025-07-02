@@ -73,7 +73,7 @@ This repository includes labs, project code, test plans, reports, and supporting
 
 ---
 
-## 👥 Team Members
+## 👥 Project Team Members
 - **Hamza Malik**  
 - **Jesdin Timbol**  
 - **Ryan Taing**
